@@ -43,7 +43,7 @@ const GraphicSismos = () => {
     const data = {
         labels: dateSismos,
         datasets:[{
-            label:'Profundidad',
+            label:'Profundidad en km',
             backgroundColor:'red',
             borderColor: 'black',
             borderWidth: 1,
